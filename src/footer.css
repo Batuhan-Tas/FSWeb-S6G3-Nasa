@@ -1,0 +1,11 @@
+.footerContainer {
+    
+    background-color:blue;
+    width: 100%;
+    
+
+}
+
+.footerContainer p {
+    font-size:small;
+}
